@@ -1,6 +1,7 @@
 <h1>Wajeeha Transcribe</h1>
 
 <p>A lightweight Windows GUI for offline speech-to-text transcription using Cactus Whistle (Needle).</p>
+<img width="616" height="607" alt="image" src="https://github.com/user-attachments/assets/81e3df61-f1db-4d82-a7a6-a2268ff5c237" />
 
 <p>Wajeeha Transcribe is a simple desktop application that converts speech from WAV audio files or microphone recordings into text. It provides an easy-to-use graphical interface, automatically splits longer recordings into smaller chunks, and saves the resulting transcript to a <code>.txt</code> file.</p>
 
